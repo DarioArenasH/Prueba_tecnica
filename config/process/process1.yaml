@@ -1,0 +1,7 @@
+target: IsFraud
+features:
+  - amount
+  - oldbalanceOrg
+  - newbalanceOrig
+  - oldbalanceDest
+  - newbalanceDest
